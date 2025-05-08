@@ -1,8 +1,8 @@
-# StudyBuddy - Your AI Study Companion 📚
+# StudyBuddy - Your AI Study Companion
 
 StudyBuddy is an intelligent study companion that helps you learn and understand your course materials through interactive conversations. Upload your study materials (PDFs) and chat with an AI that responds like a friendly peer, breaking down complex concepts and helping you learn more effectively.
 
-## ✨ Features
+##  Features
 
 - **Smart PDF Processing**: Upload your study materials and let StudyBuddy process them for intelligent Q&A
 - **Interactive Learning**: Chat with an AI that responds like a friendly study buddy
@@ -12,7 +12,7 @@ StudyBuddy is an intelligent study companion that helps you learn and understand
 - **Real-time Processing**: Get instant responses to your questions
 - **Drag & Drop Support**: Easy file upload with drag and drop functionality
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -56,7 +56,7 @@ python app.py
 http://localhost:5000
 ```
 
-## 💡 How to Use
+##  How to Use
 
 1. **Upload Study Materials**:
    - Click "Choose File" or drag and drop your PDF file
@@ -73,15 +73,15 @@ http://localhost:5000
    - Chat context will update automatically
    - Clear chat history using the "Clear Chat" button when needed
 
-## 🛠️ Technical Details
+##  Technical Details
 
 - **Backend**: Flask (Python)
 - **Frontend**: HTML, CSS, JavaScript with Bootstrap 5
 - **AI Model**: Ollama with Qwen 2.5 3B
 - **Embedding Model**: BAAI/bge-m3
 - **PDF Processing**: PyMuPDF (fitz)
-
-## 📝 Configuration
+- 
+##  Configuration
 
 The application can be configured by modifying the following parameters in `app.py`:
 
@@ -91,7 +91,7 @@ The application can be configured by modifying the following parameters in `app.
 - `CHUNK_SIZE`: Size of text chunks for processing
 - `UPLOAD_FOLDER`: Directory for storing uploaded files
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -101,16 +101,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
-- [Ollama](https://ollama.ai/) for providing the AI model
-- [BAAI](https://bAAI.org/) for the embedding model
-- [Bootstrap](https://getbootstrap.com/) for the frontend framework
-- [PyMuPDF](https://github.com/pymupdf/PyMuPDF) for PDF processing
+- [Ollama](https://ollama.ai/) for providing the AI model your work is AMAZIINN
 
 ## 📞 Support
 
@@ -120,4 +113,4 @@ If you encounter any issues or have questions, please:
 
 ---
 
-Made with ❤️ for students everywhere 
+Made with ❤️ for students everywhere and especially my @ENSIASD ones :)
